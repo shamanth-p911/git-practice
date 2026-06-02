@@ -13,3 +13,6 @@ line added through git hub to check fetch
 this line is there in newfeature only 
 another line only for newfeature
 another line gng
+
+
+newfeature 2 for see if the main changed after i have merged these twooo
